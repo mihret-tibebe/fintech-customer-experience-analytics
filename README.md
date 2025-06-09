@@ -34,7 +34,7 @@ The cleaned dataset was saved as `cleaned_reviews.csv`, ready for downstream sen
 
 ### ⚙️ 3. **Tools & Environment**
 
-* Python 3.x
+* Python 3.13.3
 * Libraries: `google-play-scraper`, `pandas`, `csv`, `schedule`
 * Logging with built-in `logging` module
 * Code versioned via Git (`task-1` branch)
